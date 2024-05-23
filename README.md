@@ -1,7 +1,5 @@
 # Credit Card And Customer Report
 
-# Credit Card Analytics Dashboard
-
 This repository contains a comprehensive Power BI dashboard project focused on analyzing credit card transactions, customer demographics, and overall customer analytics. The dashboard consists of three main reports:
 
 1. **Credit Card Transaction Report**
