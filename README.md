@@ -38,17 +38,19 @@ CreditCardAndCustomerDashboard/
 
 ## Images
 
-### Credit Card Transaction Report
 
- ![Credit Card Transaction Report](Credit Card Transaction Report.jpg)
+## Credit Card Transaction Report
 
-### Credit Card Customer Report
+![Credit Card Transaction Report](Credit%20Card%20Transaction%20Report.jpg)
 
-![Credit Card Customer Report](Credit Card Customer Report.jpg)
+## Credit Card Customer Report
 
-### Customer Analytics
+![Credit Card Customer Report](Credit%20Card%20Customer%20Report.jpg)
 
-![Customer Analytics](Customer Analytics.jpg)
+## Customer Analytics
+
+![Customer Analytics](Customer%20Analytics.jpg)
+
 
 
 ## Usage
