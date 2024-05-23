@@ -40,7 +40,7 @@ CreditCardAndCustomerDashboard/
 
 ### Credit Card Transaction Report
 
-![Credit Card Transaction Report](Credit Card Transaction Report.jpg)
+ ![Credit Card Transaction Report](Credit Card Transaction Report.jpg)
 
 ### Credit Card Customer Report
 
