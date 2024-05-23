@@ -36,6 +36,21 @@ CreditCardAndCustomerDashboard/
 ├── CustomerAnalytics
 └── README.md
 
+## Images
+
+### Credit Card Transaction Report
+
+![Credit Card Transaction Report](Credit Card Transaction Report.jpg)
+
+### Credit Card Customer Report
+
+![Credit Card Customer Report](Credit Card Customer Report.jpg)
+
+### Customer Analytics
+
+![Customer Analytics](Customer Analytics.jpg)
+
+
 ## Usage
 
 These reports can be used to:
